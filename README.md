@@ -1,0 +1,2 @@
+# Kaizentrix_Global_Solution
+Python_Full_Stack
